@@ -4,6 +4,7 @@
 > **Difficulty:** Medium
 > **Solves:** 154 teams
 > **Status:** ✅ Solved
+> **Solution:** [GitHub](https://github.com/roberttk01/Null-CTF-2025/tree/main/Crypto/double_it_and_give_it_to_the_next_person)
 
 ---
 
@@ -165,9 +166,9 @@ nullctf{25b6b8151d54b7f9e5fc3181e1d5b5a97464d019dde57aca90df349a8c951a02}
 
 | File | Description |
 |------|-------------|
-| [chal.sage](./files/chal.sage) | Challenge encryption script |
-| [output.txt](./files/output.txt) | Obfuscated coordinates |
-| [solve_sagecell.sage](./solve_sagecell.sage) | Solution script for SageMathCell |
+| [chal.sage](https://github.com/roberttk01/Null-CTF-2025/blob/main/Crypto/double_it_and_give_it_to_the_next_person/files/chal.sage) | Challenge encryption script |
+| [output.txt](https://github.com/roberttk01/Null-CTF-2025/blob/main/Crypto/double_it_and_give_it_to_the_next_person/files/output.txt) | Obfuscated coordinates |
+| [solve_sagecell.sage](https://github.com/roberttk01/Null-CTF-2025/blob/main/Crypto/double_it_and_give_it_to_the_next_person/solve_sagecell.sage) | Solution script for SageMathCell |
 
 ---
 
