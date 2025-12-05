@@ -4,6 +4,7 @@
 > **Difficulty:** Medium
 > **Solves:** ???
 > **Status:** Solved
+> **Solution:** [GitHub](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/%20Next%20Jason)
 
 ---
 
@@ -130,8 +131,8 @@ nullctf{f0rg3_7h15_cv3_h3h_d4ed26ca37802e2a}
 
 | File | Description |
 |------|-------------|
-| [Next Jason_Solution.py](Next%20Jason_Solution.py) | Solution script |
-| [files/](files/) | Challenge source code |
+| [Next Jason_Solution.py](https://github.com/roberttk01/Null-CTF-2025/blob/main/Web/%20Next%20Jason/Next%20Jason_Solution.py) | Solution script |
+| [files/](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/%20Next%20Jason/files) | Challenge source code |
 
 ---
 
