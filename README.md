@@ -15,6 +15,12 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 | Blockchain | 2 | 0 |
 | Threat Hunting | 1 | 0 |
 
+## Solved Challenges
+
+| Category | Challenge | Points | Writeup |
+|----------|-----------|--------|---------|
+| Web | Next Jason | 359 | [Writeup](Web/%20Next%20Jason/README.md) |
+
 ## Structure
 
 ```
