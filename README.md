@@ -8,7 +8,7 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 |----------|------------|--------|
 | Crypto | 4 | 0 |
 | Misc | 6 | 0 |
-| Web | 6 | 1 |
+| Web | 6 | 2 |
 | Pwn | 3 | 0 |
 | Reverse | 3 | 0 |
 | Forensics | 1 | 0 |
@@ -20,6 +20,7 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 | Category | Challenge | Points | Writeup |
 |----------|-----------|--------|---------|
 | Web | Next Jason | 359 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/%20Next%20Jason) |
+| Web | Codename Neigh | ??? | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh) |
 
 ## Structure
 

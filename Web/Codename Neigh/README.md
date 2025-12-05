@@ -4,6 +4,7 @@
 > **Difficulty:** Easy
 > **Solves:** ???
 > **Status:** Solved
+> **Solution:** [GitHub](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh)
 
 ---
 
@@ -121,7 +122,7 @@ nullctf{p3rh4ps_my_p0ny_!s_s0mewh3re_3lse_:(}
 
 | File | Description |
 |------|-------------|
-| [files/](files/) | Challenge source code |
+| [files/](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh/files) | Challenge source code |
 
 ---
 
