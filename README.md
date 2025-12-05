@@ -6,7 +6,7 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 
 | Category | Challenges | Solved |
 |----------|------------|--------|
-| Crypto | 4 | 0 |
+| Crypto | 4 | 1 |
 | Misc | 6 | 1 |
 | Web | 6 | 2 |
 | Pwn | 3 | 0 |
@@ -19,6 +19,7 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 
 | Category | Challenge | Points | Writeup |
 |----------|-----------|--------|---------|
+| Crypto | double_it_and_give_it_to_the_next_person | 50 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Crypto/double_it_and_give_it_to_the_next_person) |
 | Misc | Reservations | 50 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Misc/Reservations) |
 | Web | Next Jason | 359 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/%20Next%20Jason) |
 | Web | Codename Neigh | 50 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh) |
