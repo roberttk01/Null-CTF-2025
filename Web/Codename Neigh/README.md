@@ -1,8 +1,8 @@
-# Codename Neigh - ??? pts
+# Codename Neigh - 50 pts
 
 > **Category:** Web
 > **Difficulty:** Easy
-> **Solves:** ???
+> **Solves:** Solved
 > **Status:** Solved
 > **Solution:** [GitHub](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh)
 
@@ -10,7 +10,7 @@
 
 ## Challenge Description
 
-> *Pony-themed web application challenge*
+> Beyond the known chronometers lies the Temporal Nexus. Within its databanks, a desperate message echoes: a time traveler's plea for his lost companion, Neigh, vanished into the mists of history. Explore restricted archives, consult paradox guides, and perhaps, lend your eyes to a search that spans epochs.
 
 **Attachments:** [codename_neigh.zip](files/codename_neigh.zip)
 **Instance:** `http://public.ctf.r0devnull.team:3002/`
@@ -71,6 +71,8 @@ The string comparison `path != "/flag"` is strict equality, so:
 
 1. Add query string to `/flag` endpoint to bypass path check
 2. Spoof `Host` header to `127.0.0.1`
+
+No script required - single curl command.
 
 ### Exploit
 

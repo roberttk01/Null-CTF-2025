@@ -20,7 +20,7 @@ Solutions and writeups for [Null CTF 2025](https://ctf.r0devnull.team/).
 | Category | Challenge | Points | Writeup |
 |----------|-----------|--------|---------|
 | Web | Next Jason | 359 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/%20Next%20Jason) |
-| Web | Codename Neigh | ??? | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh) |
+| Web | Codename Neigh | 50 | [Writeup](https://github.com/roberttk01/Null-CTF-2025/tree/main/Web/Codename%20Neigh) |
 
 ## Structure
 
