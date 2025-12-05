@@ -1,0 +1,29 @@
+# Claude Code instructions
+CLAUDE.md
+
+# Environment and secrets
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor/IDE
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Challenge artifacts (uncommitted working files)
+*.bak
+*.tmp
