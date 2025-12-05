@@ -4,6 +4,7 @@
 > **Difficulty:** Easy
 > **Solves:** 218 teams
 > **Status:** ✅ Solved
+> **Solution:** [GitHub](https://github.com/roberttk01/Null-CTF-2025/tree/main/Misc/Reservations)
 
 ---
 
@@ -103,7 +104,7 @@ nullctf{why_1s_it_r3srv3d_a6230356d73b9ca7}
 
 | File | Description |
 |------|-------------|
-| [reservation.py](./files/reservation.py) | Challenge source code |
+| [reservation.py](https://github.com/roberttk01/Null-CTF-2025/blob/main/Misc/Reservations/files/reservation.py) | Challenge source code |
 
 ---
 
