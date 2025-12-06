@@ -1,0 +1,51 @@
+================================================================================
+OSINT QUIZ
+================================================================================
+
+Answer the following questions about geo(?)osint.
+
+
+Question 1:
+--------------------------------------------------------------------------------
+Could u name the name of the building?
+format: the flag is case sensitive and replace the ' ' with '_'
+
+Your answer: Palace_of_Parliament
+✓ Correct!
+
+Question 2:
+--------------------------------------------------------------------------------
+Could u name the address where i found this versace lamborghini?
+format: the flag is case sensitive. format: 'street street_number, city postal_code'
+
+Your answer: Calea Craiovei 127, Pitești 110207
+✓ Correct!
+
+Question 3:
+--------------------------------------------------------------------------------
+ Could u name the name of the building near this area?
+format: the flag is case sensitive and replace the " " with "_"
+
+Your answer: Politehnica_Business_Tower
+✓ Correct!
+
+Question 4:
+--------------------------------------------------------------------------------
+Could u name the name of the building near this area?
+format: the flag is case sensitive and replace the " " with "_"(no special chars used!)
+
+Your answer: Gara_Pitesti
+✓ Correct!
+
+Question 5:
+--------------------------------------------------------------------------------
+I want the coordonates from this place with the precision of 7 decimals!
+format: coord1,coord2
+
+Your answer: 29.5604361,-95.0853103
+✓ Correct!
+
+================================================================================
+QUIZ COMPLETE
+Here is your flag: nullctf{pl34s3_d0_n07_d0x_m3!}
+================================================================================
